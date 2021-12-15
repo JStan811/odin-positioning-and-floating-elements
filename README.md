@@ -1,1 +1,2 @@
 # odin-positioning-and-floating-elements
+This [project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/html-and-css/lessons/positioning-and-floating-elements) is from Odin's HTML and CSS curriculum. The objective is to recreate [this article](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/), focusing on practicing positioning techniques.
